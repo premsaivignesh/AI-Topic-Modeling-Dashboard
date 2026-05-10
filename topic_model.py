@@ -2,6 +2,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import NMF
 import re
 from nltk.corpus import stopwords
+import nltk
+nltk.download('stopwords')
 from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
 
 
