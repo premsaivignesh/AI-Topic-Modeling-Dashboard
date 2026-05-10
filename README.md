@@ -52,6 +52,9 @@ Run application:
 
 streamlit run app.py
 
+Live project Link:
+Demo: https://ai-topic-modeling-dashboard.streamlit.app
+
 ## 📸 Dashboard Preview
 1.Upload Interface
     ![Upload Interface](screenshots/upload.png)
